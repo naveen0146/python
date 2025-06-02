@@ -53,3 +53,6 @@ A⋅v=λ⋅v
 v is an eigenvector
 λ is the eigenvalue
 PCA (Principal Component Analysis): Reduces data to fewer dimensions using top eigenvectors.
+Reduce features to 2–3 most important
+Speed up processing
+Remove noise
